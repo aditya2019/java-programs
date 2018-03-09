@@ -1,0 +1,7 @@
+Compiled from "Nested.java"
+class Outer extends java.lang.Object{
+    int x;
+    Outer();
+    public static void main(java.lang.String[]);
+}
+

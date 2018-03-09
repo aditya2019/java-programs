@@ -1,0 +1,8 @@
+Compiled from "This1.java"
+class This1 extends java.lang.Object{
+    int x;
+    This1();
+    public void show(int);
+    public static void main(java.lang.String[]);
+}
+

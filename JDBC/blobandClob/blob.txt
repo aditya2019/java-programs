@@ -1,0 +1,10 @@
+A bunch of Java components, in full costume, are playing a party
+game,·Wha am W They gille you a clue, and you try to guess who
+they are, based on what they say.Assume they always tell the truth
+about themselves. If they happen to say something that could be true
+for more tha n on e guy, then write down all fa r whom that sentence
+applies. Fill In the blanks next to the sentence with the names of one
+or more attendees.
+Tonight's attendees:
+Insta nee variable, argument, return, getter, setter,
+encapsulation, public, private, pass by value, method

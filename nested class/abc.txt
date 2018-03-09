@@ -1,0 +1,8 @@
+Compiled from "Nested.java"
+class Outer {
+  int x;
+  static int y;
+  Outer();
+  public static void main(java.lang.String...);
+  static {};
+}
